@@ -1,0 +1,19 @@
+# Ignore model weights
+*.h5
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data folders (if large)
+data/
+
+# Ignore optional notebooks (if not ready to share)
+notebooks/
